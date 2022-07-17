@@ -1,4 +1,4 @@
-# drag-and-drop
+# drag-and-drop-vue-js
 
 ## Project setup
 ```
